@@ -4,7 +4,7 @@ This is an incomplete list of themes created by Aseprite users (pull requests ar
 
 ----
 
-<a href="https://mortmort.itch.io/aseprite-darkmode](https://github.com/1kick234too/Crystal-Clean">Crystal Clean Theme by 1kick234too<br>
+<a href="https://github.com/1kick234too/Crystal-Clean">Crystal Clean Theme by 1kick234too<br>
 <img src="https://github.com/1kick234too/Crystal-Clean/blob/main/CrystalCleanThumbnail.png" width="400px" /><a>
 
 ----
